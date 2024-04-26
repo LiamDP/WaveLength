@@ -528,3 +528,5 @@ function next() {
     location.reload();
   }
 }
+
+next();
